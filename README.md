@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hai%2C+Saya+Tio+Fernando+👋;Web+and+Mobile+Developer" alt="Typing SVG" />
-</p>
+# 🚀 Hai, Saya Tio Fernando
+# ⚡ Web & Mobile Developer Enthusiast
+***
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tio-Fernando&color=008080&style=flat&label=PROFIL+DILIHAT" alt="Visitor Count" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Tio-Fernando&color=008080&style=flat-square&label=PROFIL+DILIHAT" alt="Visitor Count" />
 </p>
 
 **🚀 Tentang Saya**
