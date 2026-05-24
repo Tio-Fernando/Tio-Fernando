@@ -7,6 +7,7 @@
 </p>
 
 **🚀 Tentang Saya**
+
 Seorang Software Developer Enthusiast yang berfokus pada pengembangan aplikasi **Web** dan **Mobile**. Saat ini saya aktif membangun proyek web yang interaktif serta mengeksplorasi pengembangan aplikasi mobile yang modern, bersih, dan fungsional.
 
 ---
