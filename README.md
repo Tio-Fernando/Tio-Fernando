@@ -1,5 +1,12 @@
-Hai, Saya Tio Fernando 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=200&section=header&text=Hai,%20Saya%20Tio%20Fernando%20👋&fontSize=40&animation=twinkling" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tio-Fernando&color=teal&style=flat-square&label=PROFIL+DILIHAT" alt="Visitor Count" />
+</p>
+
+**🚀 Tentang Saya**
 Seorang Software Developer Enthusiast yang berfokus pada pengembangan aplikasi **Web** dan **Mobile**. Saat ini saya aktif membangun proyek web yang interaktif serta mengeksplorasi pengembangan aplikasi mobile yang modern, bersih, dan fungsional.
 
 ---
@@ -12,18 +19,20 @@ Seorang Software Developer Enthusiast yang berfokus pada pengembangan aplikasi *
 
 ---
 
-**📊 Statistik GitHub Saya**
-
-Di bawah ini adalah statistik aktivitas coding dan bahasa pemrograman yang paling sering saya gunakan secara real-time:
+# 📊 Statistik & Aktivitas Coding
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tio-Fernando&show_icons=true&theme=radial&hide_border=true" alt="Statistik GitHub Tio" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tio-Fernando&layout=compact&theme=radial&hide_border=true" alt="Bahasa Populer Tio" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tio-Fernando&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Tio" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tio-Fernando&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer Tio" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tio-Fernando&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-**📂 Proyek Utama Saya**
+# 📂 Proyek Utama Saya
 * 📦 **Management Inventory App** - Aplikasi mobile yang dirancang khusus untuk manajemen stok dan pelacakan barang antar bisnis (B2B Inventory).
 * ☕ **ProyekCoffeshop** - Aplikasi web berbasis PHP untuk manajemen kedai kopi.
 * 🏛️ **adipati** - Proyek berbasis JavaScript.
@@ -31,5 +40,9 @@ Di bawah ini adalah statistik aktivitas coding dan bahasa pemrograman yang palin
 
 ---
 
-**📫 Mari Terhubung!**
-* **Email:** fernandotio661@gmail.com
+# 📫 Mari Terhubung!
+<p align="left">
+  <a href="mailto:fernandotio661@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
