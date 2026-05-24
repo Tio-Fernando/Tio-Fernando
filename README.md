@@ -23,12 +23,12 @@ Seorang Software Developer Enthusiast yang berfokus pada pengembangan aplikasi *
 # 📊 Statistik & Aktivitas Coding
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tio-Fernando&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Tio" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tio-Fernando&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer Tio" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tio-fernando&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Tio" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tio-fernando&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer Tio" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tio-Fernando&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tio-fernando&theme=dracula&hide_border=true" width="100%" />
 </p>
 
 ---
